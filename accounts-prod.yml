@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to TenBank accounts related PROD APIs"
   contactDetails:
     name: "Adam John - Product Owner"
-    email: "0ab0a5e77a0501e2384c89fc8f6756739f2a0b42c6aedfc5627128ca2fa5f0cd4cbbd8c5890c04ccb6e69c18516a3dd2"
+    email: "{cipher}0ab0a5e77a0501e2384c89fc8f6756739f2a0b42c6aedfc5627128ca2fa5f0cd4cbbd8c5890c04ccb6e69c18516a3dd2"
   onCallSupport:
     - (777) 555-1234
     - (777) 523-1345
