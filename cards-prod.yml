@@ -1,0 +1,11 @@
+build:
+  version: "5.0"
+
+cards:
+  message: "Welcome to TenBanks cards related PROD APIs"
+  contactDetails:
+    name: "Sarah Banks - Prod Owner"
+    email: "sarah@tenbanks.com"
+  onCallSupport:
+    - (111) 222-3333
+    - (222) 444-5555

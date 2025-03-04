@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to TenBank Cards related QA APIs"
+  contactDetails:
+    name: "Jackie Chan - QA Lead Cards"
+    email: "jackie@chan.cards.com"
+  onCallSupport:
+    - (777) 888-7890
+    - (777) 999-5678
