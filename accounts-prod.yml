@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to TenBank accounts related webook2 APIs"
+  message: "Welcome to TenBank accounts related prod APIs"
   contactDetails:
     name: "Adam John - Product Owner"
     email: "{cipher}0ab0a5e77a0501e2384c89fc8f6756739f2a0b42c6aedfc5627128ca2fa5f0cd4cbbd8c5890c04ccb6e69c18516a3dd2"
