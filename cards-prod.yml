@@ -2,7 +2,7 @@ build:
   version: "5.0"
 
 cards:
-  message: "Welcome to TenBanks cards related prod APIs"
+  message: "Welcome to TenBanks cards related webhook APIs"
   contactDetails:
     name: "Sarah Banks - Prod Owner"
     email: "sarah@tenbanks.com"
